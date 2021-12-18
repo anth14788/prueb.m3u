@@ -1,47 +1,38 @@
-#EXTM3U
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/p2y6Fbd.png" group-title="Undefined",EWTN
-http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/p2y6Fbd.png" group-title="Undefined",EWTN
+#EXTINF:-1,EWTN
 https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PA" tvg-logo="https://i.imgur.com/tUHkolc.png" group-title="Religious",Hosanna Vision
-https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/d9n0sOZ.png" group-title="Local",BeXtreme TV (Lima) (1080p) [Not 24/7]
+#EXTINF:-1,BeXtreme TV (Lima) (1080p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://graph.facebook.com/BestCableMusicCanal97/picture?width=320&height=320" group-title="Music",Best Cable Music (720p) [Not 24/7]
-https://live.siete.us/bestcablemusic/bestcablemusic/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://graph.facebook.com/BestCableMusicCanal97/picture?width=320&height=320" group-title="Music",Best Cable Más Cumbia (720p) [Not 24/7]
-https://live.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://graph.facebook.com/BestCableTvCanal3/picture?width=320&height=320" group-title="General",Best Cable Perú
-https://live.siete.us/bestcable/bestcable/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Undefined",Cultura 24 TV
+#EXTINF:-1,Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="" group-title="Culture",Cultura24.tv (360p)
-https://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Undefined",IPE
+#EXTINF:-1,Exitosa TV
+https://cu.onliv3.com/livevd1/user2.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Undefined",TVPE
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://graph.facebook.com/uncanalinteligente/picture?width=320&height=320" group-title="General",UCI (1080p)
+#EXTINF:-1,Karibeña
+https://cu.onliv3.com/livevd/user1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,UCI (1080p)
 http://170.79.102.223/UCI/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,AMC
-http://linea.cc:8000/test123/test123/49893.ts?checkedby:iptvcat.com
-#EXTINF:-1,AXN HD+
-http://linea.cc:8000/test123/test123/49944.ts?checkedby:iptvcat.com
-#EXTINF:-1,DISCOVERY CHANNEL
-http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/1817?checkedby:iptvcat.com
-#EXTINF:-1,DISNEY CHANNEL
-http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/1836?checkedby:iptvcat.com
+#EXTINF:-1,AMC HD+
+http://linea.cc:8000/test123/test123/49946.ts?checkedby:iptvcat.com
+#EXTINF:-1,AXN
+http://linea.cc:8000/test123/test123/49891.ts?checkedby:iptvcat.com
+#EXTINF:-1,Caza y Pesca
+http://linea.cc:8000/test123/test123/55940.ts?checkedby:iptvcat.com
+#EXTINF:-1,Disney
+http://linea.cc:8000/test123/test123/49852.ts?checkedby:iptvcat.com
 #EXTINF:-1,Disney HD+
 http://linea.cc:8000/test123/test123/49931.ts?checkedby:iptvcat.com
-#EXTINF:-1,FOX LIFE
-http://linea.cc:8000/test123/test123/49865.ts?checkedby:iptvcat.com
+#EXTINF:-1,Disney XD
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/67779?checkedby:iptvcat.com
 #EXTINF:-1,FOX Life HD+
 http://linea.cc:8000/test123/test123/49929.ts?checkedby:iptvcat.com
-#EXTINF:-1,Fox
-http://linea.cc:8000/test123/test123/49866.ts?checkedby:iptvcat.com
-#EXTINF:-1,NatGeo Wild
-http://linea.cc:8000/test123/test123/49843.ts?checkedby:iptvcat.com
-#EXTINF:-1,TNT
-http://linea.cc:8000/test123/test123/49827.ts?checkedby:iptvcat.com
-#EXTINF:-1,TOROS
-http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/1828?checkedby:iptvcat.com
+#EXTINF:-1,Fox Life
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/67793?checkedby:iptvcat.com
+#EXTINF:-1,M. ACCION HD+
+http://linea.cc:8000/test123/test123/49922.ts?checkedby:iptvcat.com
+#EXTINF:-1,M. COMEDIA
+http://linea.cc:8000/test123/test123/49853.ts?checkedby:iptvcat.com
+#EXTINF:-1,Historia
+http://linea.cc:8000/test123/test123/49862.ts?checkedby:iptvcat.com
+#EXTINF:-1,FOX LIFE
+http://linea.cc:8000/test123/test123/49865.ts?checkedby:iptvcat.com
